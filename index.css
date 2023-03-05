@@ -1,0 +1,373 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+nav{
+    margin-top: 30px;
+    align-items: center;
+}
+.num{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #0C243E;
+    margin-top: 17px;
+    margin-left: 138px;
+    cursor: pointer;
+}
+.num span{
+    color:#FF7300 ;
+}
+.list{
+    display: flex;
+    gap: 59px;
+    margin-top: 17px;
+    margin-left: 136px;
+    cursor: pointer;
+}
+.list :hover{
+    color: #FF7300;
+}
+
+.list-item{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #0D233F;
+}
+.text{
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    color: #0C243E;
+    margin-top: 150px;
+}
+.foiz{
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 115%;
+    letter-spacing: 0.275em;
+    color: #0C243E;
+}
+.be{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #0C243E;
+}
+.jiz{
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #0C243E;
+}
+.pic{
+    width: 100%;
+    margin-top: 70px;
+}
+.btn1{
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 20px 60px;
+    background: #FF7300;
+    border: none;
+    border-radius: 5px;
+    margin-top: 60px;
+    cursor: pointer;
+}
+.btn1:hover{
+    color: #FF7300;
+    background: #FFFFFF;
+}
+.info{
+    margin-top: 50px;
+    font-weight: 400;
+    font-size: 38px;
+    letter-spacing: 0.275em;
+    text-transform: uppercase;
+    color: #0C243E;
+    margin-bottom: 50px;
+}
+.info1{
+    background: url(./img/kabel1\ \(2\).png);
+    height: 400px;
+    box-shadow: 2px 2px  15px gray;
+}
+.info2{
+    background: url(./img/kabel2.png);
+    height: 400px;
+    box-shadow: 2px 2px  15px gray;
+}
+.info3{
+    background: url(./img/aaaaaaaaaa.png);
+    height: 400px;
+    box-shadow: 2px 2px  15px gray;
+}
+.info4{
+    background: url(./img/kabel4.png);
+    height: 400px;
+    box-shadow: 2px 2px 15px gray;
+}
+.text1{
+    padding-top: 314px;
+    font-weight: 700;
+font-size: 14px;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #0C243E;
+margin-left: 20px;
+}
+.btnnn{
+    font-weight: 700;
+font-size: 16px;
+color: #FFFFFF;
+padding: 18px 92px;
+background: #FF7300;
+border: none;
+border-radius: 10px;
+margin-top: 50px;
+margin-bottom: 90px;
+cursor: pointer;
+}
+.btnnn:hover{
+    color: #FF7300;
+    background: #FFFFFF;
+}
+.twos{
+    background: #FF7300;
+    width: 1600px;
+    margin: auto;
+    height: 655px;
+}
+.kok{
+    background: #0D233F;
+border-radius: 2px;
+margin-top: 30px;
+width: 222px;
+height: 24px;
+}
+.blue{
+    font-weight: 700;
+font-size: 12px;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #FFFFFF;
+text-align: center;
+padding-top: 5px;
+}
+.sozlar{
+    font-weight: 400;
+font-size: 72px;
+line-height: 93px;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 64px;
+}
+.asos{
+    font-weight: 400;
+font-size: 38px;
+letter-spacing: 0.275em;
+text-transform: uppercase;
+margin-top: 26px;
+color: #FFFFFF
+}
+.aaaa{
+width: 100%;
+margin-top: 100px;
+}
+.three{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.na{
+    font-weight: 400;
+font-size: 38px;
+letter-spacing: 0.275em;
+text-transform: uppercase;
+color: #0C243E;
+}
+.all{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #0C243E;
+margin-top: 30px;
+}
+.sim{
+    margin-left: 120px;
+}
+.four{
+    background: #0C243E;
+    height: 338px;
+    width: 1600px;
+    margin: auto;
+    margin-bottom: 130px;
+}
+.son{
+    font-weight: 400;
+font-size: 38px;
+letter-spacing: 0.275em;
+text-transform: uppercase;
+color: #FF7300;
+margin-top: 114px;
+text-align: center;
+}
+.number{
+    font-weight: 700;
+font-size: 14px;
+text-align: center;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 15px;
+}
+.mavzu{
+    display: flex;
+    justify-content: space-around;
+}
+.five{
+    margin-bottom: 170px;
+}
+.nam{
+    font-weight: 400;
+font-size: 38px;
+letter-spacing: 0.275em;
+text-transform: uppercase;
+color: #0C243E;
+}
+.pod{
+    font-weight: 400;
+font-size: 16px;
+letter-spacing: -0.03em;
+color: #1B2032;
+}
+.doc{
+    margin-top: 240px;
+    /* margin-right: 50px; */
+}
+.doc1{
+    width: 180px;
+height: 260px;
+}
+.doc2{
+    display: flex;
+}
+.doc3{
+    width: 480px;
+height: 625px;
+}
+.doc4{
+    margin-top: 335px;
+}
+.six{
+    background: #667592;
+    height: 460px;
+    width: 1600px;
+    margin: auto;
+}
+.tel{
+    font-weight: 400;
+font-size: 38px;
+line-height: 115%;
+letter-spacing: 0.275em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 108px;
+}
+.label{
+    width: 380px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #0C243E;
+    font-weight: 400;
+font-size: 16px;
+color: #1B2032;
+border-radius: 5px;
+padding-left: 50px;
+}
+.submit{
+    width: 280px;
+height: 10px;
+}
+.collar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn5{
+    font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+padding: 18px 95px;
+background: #FF7300;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+.btn5:hover{
+    color: #FF7300;
+    background: #FFFFFF;
+}
+footer{
+    background: #0C243E;
+    width: 1600px;
+    margin: auto;
+    height: 540px;
+}
+.hammasi{
+    display: flex;
+    justify-content: space-between;
+}
+.div1{
+    font-weight: 400;
+font-size: 16px;
+letter-spacing: -0.03em;
+color: #FFFFFF;
+margin-top: 21px;
+}
+.div2{
+    font-weight: 700;
+font-size: 12px;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 55px;
+}
+.div3{
+    margin-top: 33px;
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.check{
+    border: 2px solid #FFFFFF;
+    width: 16px;
+    height: 16px;
+    margin-top: 38px;
+    margin-right: 15px;
+}
+.checkbo{
+    font-weight: 400;
+font-size: 16px;
+letter-spacing: -0.03em;
+color: #FFFFFF;
+margin-top: 36px;
+}
+.tanla{
+    display: flex;
+}
